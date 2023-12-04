@@ -1,3 +1,5 @@
 Hello
 I am new to git
 I am getting better at git
+There is more work to do
+Let us go hard.
